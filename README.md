@@ -9,6 +9,6 @@ Write your data into file 'input.txt'.
 ##### To Decode: `make decode`
 ###### Decodes the data of file 'encodedOutput.txt'.
 ---
-##### To Clean: `make encode`
+##### To Clean: `make clean`
 ###### Deletes the extra file which were creted while compiling, encoding and decoding.
 ---
