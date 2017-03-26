@@ -4,7 +4,7 @@ Write your data into file 'input.txt'.
 ---
 ##### To Encode: `make encode`
 ###### Encodes the data of file 'input.txt'.
-###### Character code table is written in file 'encoding.txt' as '<Char Ascii><space><Code>'.
+###### Character code table is written in file 'encoding.txt' as '\<Char Ascii\>\<space\>\<Code\>'.
 ---
 ##### To Decode: `make decode`
 ###### Decodes the data of file 'encodedOutput.txt'.
